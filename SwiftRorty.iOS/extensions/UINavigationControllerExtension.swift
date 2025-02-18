@@ -2,7 +2,6 @@
 //  UINavigationControllerExtension.swift
 //  SwiftRorty.iOS
 //
-//  Created by developersancho on 1.03.2022.
 //
 
 import Foundation
@@ -27,6 +26,5 @@ extension UINavigationController {
         
         UINavigationBar.appearance().tintColor = UIColor(Color.Text)
         
-        //UIView.appearance().backgroundColor = UIColor.red
     }
 }

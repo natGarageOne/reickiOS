@@ -2,7 +2,6 @@
 //  BundleExtension.swift
 //  SwiftRorty.iOS
 //
-//  Created by developersancho on 3.03.2022.
 //
 
 import Foundation

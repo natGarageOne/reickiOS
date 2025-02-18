@@ -2,7 +2,6 @@
 //  AppModule.swift
 //  SwiftRorty.iOS
 //
-//  Created by developersancho on 27.02.2022.
 //
 
 import Foundation
@@ -34,9 +33,7 @@ extension Resolver: ResolverRegistering {
     private static func registerDomain() {
         register { GetCharacters() }
         register { GetCharacterDetail() }
-        register { GetFavorites() }
-        register { UpdateFavorite() }
-        register { DeleteFavorite() }
+        
     }
     
 }

@@ -2,7 +2,6 @@
 //  CharacterListDto.swift
 //  SwiftRorty.iOS
 //
-//  Created by developersancho on 27.02.2022.
 //
 
 import Foundation

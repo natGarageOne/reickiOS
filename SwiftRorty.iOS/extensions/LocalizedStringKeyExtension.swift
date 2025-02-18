@@ -2,7 +2,6 @@
 //  LocalizedStringKeyExtension.swift
 //  SwiftRorty.iOS
 //
-//  Created by developersancho on 7.03.2022.
 //
 
 import Foundation
