@@ -18,5 +18,4 @@ target 'SwiftRorty.iOS' do
   target 'SwiftRorty.iOSUITests' do
     # Pods for testing
   end
-
 end
