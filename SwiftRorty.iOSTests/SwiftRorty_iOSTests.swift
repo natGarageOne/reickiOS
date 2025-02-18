@@ -2,7 +2,6 @@
 //  SwiftRorty_iOSTests.swift
 //  SwiftRorty.iOSTests
 //
-//  Created by developersancho on 30.01.2022.
 //
 
 import XCTest
